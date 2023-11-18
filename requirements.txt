@@ -1,0 +1,5 @@
+py == 3.9.18
+streamlit == 1.28.2
+bumpy == 1.26.0
+scikit-learn == 1.2.1
+joblib == 1.2.0
