@@ -32,4 +32,4 @@ The following package / library versions were used in this study:
 * *models*: which contains all the models for each of input features and each of predicted windows.
 
 ## Link To The Web Application
-Predict the follow-up response (https://hiv-cart-followup-prediction-web-app.streamlit.app/)
+Predict the follow-up response (https://hiv-cart-followup-prediction-web-app.streamlit.app)
