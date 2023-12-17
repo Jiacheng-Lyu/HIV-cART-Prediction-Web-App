@@ -7,18 +7,15 @@ Fang Liu, Jiacheng Lyu, Jianhua Yu, Tao Ji, Yuanyuan Wang, Zeya Xu, Jianfeng Bao
 
 ## Predict Task Description
 > This app is used to predict the follow up response state of the cART for the patients affected by the HIV. The follow up predicted window include:
-* 3 to 6 months
-* 6 to 9 months
-* 9 to 12 months
-* more than 12 months
+* less than 9 months
+* more than 9 months
 
-> With three different input features:
+> With two different input features:
 
 |Input feature type|Features|
 |:---|:---|
 |Clinical features|the age when first receiving cART<br />the current age<br />the count of CD4+ T cell when first receiving cART<br />the current count of CD4+ T cell|
-|Proteome features|APOL1, ACACA, SERPIND1, MYH14, PKM, SYNE1|
-|Combined clinical & proteome features|Clinical features and Proteome features|
+|Combined clinical & proteome features|Clinical features and Proteome features (APOL1, PPBP, ACAT2)|
 
 
 ## Environment Requirement
